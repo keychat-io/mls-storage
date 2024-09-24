@@ -1,6 +1,3 @@
-# OpenMLS Memory Storage
+# OpenMLS Sqlite Storage
 
-sqlx database create   
-sqlx migrate run
-
-A very basic in-memory storage implementing the `StorageProvider` trait from `openmls_traits`.
+A sqlite storage implementing the `StorageProvider` trait from `openmls_traits`.
