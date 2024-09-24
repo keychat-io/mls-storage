@@ -1,0 +1,13 @@
+**/target
+target
+.DS_Store
+.vscode
+*.code-workspace
+/test_vectors/
+.cargo/
+
+# CLion IDE
+.idea
+*.iws
+*.iml
+*.ipr
